@@ -19,7 +19,7 @@ A headshot of your wonderful face, approximately 200x250 pixels.
 
 [headshot](WIN_20230108_12_23_25_Pro.jpg)
 [background](WIN_20230108_12_32_00_Pro.jpg)
-[slot1](Screenshot(98).png)
+[slot1](C:\Users\aaust\OneDrive\Pictures\Screenshots\Screenshot (98).png)
 [slot2](Screenshot(99).png)
 [slot3](Screenshot(100).png)
 [duck1](Screenshot(92).png)
