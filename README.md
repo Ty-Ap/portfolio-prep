@@ -14,9 +14,6 @@ Prof Pitch:
 What excites me most about tech, is that it's an industry of creation. Proof of work and creative spark given logical framework rule the industry, and that is such a start contrast from Army and Medical work.
 
 
-
-A headshot of your wonderful face, approximately 200x250 pixels.
-
 [headshot](WIN_20230108_12_23_25_Pro.jpg)
 [background](WIN_20230108_12_32_00_Pro.jpg)
 [slot1](Screenshot(98).png)
