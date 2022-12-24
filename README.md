@@ -19,16 +19,13 @@ A headshot of your wonderful face, approximately 200x250 pixels.
 
 [headshot](WIN_20230108_12_23_25_Pro.jpg)
 [background](WIN_20230108_12_32_00_Pro.jpg)
-[slot1](Screenshot (98).png)
-[slot2](Screenshot (99).png)
-[slot3](Screenshot (100).png)
-[duck1](Screenshot (92).png)
-[duck2](Screenshot (91).png)
-[duck3](Screenshot (93).png)
-[cookies1](Screenshot (94).png)
-[cookies2](Screenshot (95).png)
-[cookies3](Screenshot (97).png)
+[slot1](Screenshot(98).png)
+[slot2](Screenshot(99).png)
+[slot3](Screenshot(100).png)
+[duck1](Screenshot(92).png)
+[duck2](Screenshot(91).png)
+[duck3](Screenshot(93).png)
+[cookies1](Screenshot(94).png)
+[cookies2](Screenshot(95).png)
+[cookies3](Screenshot(97).png)
 
-A background image, approximately 1500x700 pixels.
-At least three screenshots of the best-looking parts of a previous project, like your Code 201 final project.
-At least three screenshots each, of two other projects you have worked on. Salmon Cookies? Odd Duck?
